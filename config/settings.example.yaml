@@ -1,0 +1,33 @@
+# Copier ce fichier vers config/settings.yaml (ignoré par Git) et ajuster.
+# Aucune valeur ici n'est secrète : les secrets vont dans .env uniquement.
+
+account:
+  broker: "IronFX"
+  server: "IronFx-Real1"      # informatif uniquement, pas de credentials ici
+  capital_eur: 100
+  mode: "demo"                 # "demo" ou "real" — "real" doit rester manuel
+
+risk:
+  risk_per_trade_pct: 0.5      # 0.5 a 1.0 max, voir CLAUDE.md section 2
+  min_risk_reward: 2.0
+  max_daily_loss_pct: 3.0
+
+strategy:
+  symbol: "XAUUSD"
+  trend_timeframe: "H4"
+  entry_timeframe: "M15"
+  ma_fast: 50
+  ma_slow: 200
+  rsi_period: 14
+  rsi_buy_threshold: 50
+  rsi_sell_threshold: 50
+  london_session_start_utc: "07:00"
+  london_ny_overlap_end_utc: "16:00"
+
+news:
+  blackout_minutes_before: 30
+  blackout_minutes_after: 30
+  high_impact_only: true
+
+notifications:
+  telegram_enabled: false
