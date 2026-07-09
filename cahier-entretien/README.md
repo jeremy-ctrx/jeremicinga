@@ -6,16 +6,37 @@ Méga cahier d'entretien **par modèle, par moteur et par année** : échéances
 
 ## 📋 Index des modèles
 
+### 🏙️ Citadines
+
 | Marque | Modèle | Fiche |
 |---|---|---|
-| Renault | Clio (III, IV, V) | [renault/clio.md](renault/clio.md) |
-| Renault | Mégane (III, IV, E-Tech) | [renault/megane.md](renault/megane.md) |
-| Renault | Captur (I, II) | [renault/captur.md](renault/captur.md) |
+| Citroën | C3 (II, III, IV) | [citroen/c3.md](citroen/c3.md) |
 | Ford | Fiesta (Mk7, Mk8) | [ford/fiesta.md](ford/fiesta.md) |
-| Ford | Focus (Mk3, Mk4) | [ford/focus.md](ford/focus.md) |
 | Peugeot | 208 (I, II) | [peugeot/208.md](peugeot/208.md) |
+| Renault | Clio (III, IV, V) | [renault/clio.md](renault/clio.md) |
+| Toyota | Yaris (II, III, IV) | [toyota/yaris.md](toyota/yaris.md) |
+| Volkswagen | Polo (V, VI) | [volkswagen/polo.md](volkswagen/polo.md) |
+
+### 🚗 Compactes
+
+| Marque | Modèle | Fiche |
+|---|---|---|
+| Ford | Focus (Mk3, Mk4) | [ford/focus.md](ford/focus.md) |
+| Opel | Astra (J, K, L) | [opel/astra.md](opel/astra.md) |
 | Peugeot | 308 (I, II, III) | [peugeot/308.md](peugeot/308.md) |
+| Renault | Mégane (III, IV, E-Tech) | [renault/megane.md](renault/megane.md) |
+| Toyota | Corolla / Auris | [toyota/corolla.md](toyota/corolla.md) |
+| Volkswagen | Golf (VI, VII, VIII) | [volkswagen/golf.md](volkswagen/golf.md) |
+
+### 🚙 SUV urbains & compacts
+
+| Marque | Modèle | Fiche |
+|---|---|---|
+| Dacia | Duster (I, II, III) | [dacia/duster.md](dacia/duster.md) |
+| Nissan | Qashqai (I, II, III) | [nissan/qashqai.md](nissan/qashqai.md) |
+| Peugeot | 2008 (I, II) | [peugeot/2008.md](peugeot/2008.md) |
 | Peugeot | 3008 (I, II, III) | [peugeot/3008.md](peugeot/3008.md) |
+| Renault | Captur (I, II) | [renault/captur.md](renault/captur.md) |
 
 ## 🧾 Documents communs
 
