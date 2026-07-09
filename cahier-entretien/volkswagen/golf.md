@@ -91,3 +91,21 @@
 | 1.4 TSI EA111 (Golf VI), 12 000 km/an | 350 – 600 € |
 | 2.0 TDI, 25 000 km/an | 420 – 650 € |
 | GTE plug-in, 12 000 km/an | 320 – 480 € |
+
+## 7. Achat d'occasion (50 000 km et plus)
+
+À ≤ 10 000 €, on vise une **Golf VII (2013-2017)** — éviter de descendre à la VI TSI — voir le [guide achat occasion](../guide-achat-occasion.md).
+
+**Factures à exiger** : vidanges (fixe plutôt que LongLife) ; bougies 60 000 km (TSI) ; **vidange DSG humide tous les 60 000 km** si DQ250 ; courroie TDI si proche de 10 ans ; sur EA111 : preuve d'intervention chaîne/tendeur.
+
+**Échéances dans la fenêtre 50-130 000 km** : bougies, liquide de refroidissement, freins (~80-100 000 km), vidanges DSG (60/120 000 km), **courroie EA211/TDI vers 150 000 km ou 10 ans** (à anticiper).
+
+| Cas | Budget de remise à niveau |
+|---|---|
+| Golf VII 1.2/1.4 TSI EA211 avec factures | 200 – 500 € |
+| TDI avec factures | 250 – 550 € |
+| TDI > 9 ans, courroie non faite | 800 – 1 350 € |
+| DSG humide jamais vidangée | + 180 – 320 € (et essai prolongé) |
+
+- ✅ **À privilégier** : Golf VII 1.4 TSI 125 EA211 manuelle ; 1.6/2.0 TDI avec dossier complet pour gros rouleur.
+- ❌ **À éviter** : Golf VI 1.4 TSI 122-160 EA111 (chaîne/twincharger) ; **DSG7 sec DQ200 sans historique** ; 2.0 TSI gén. 1-2 buveur d'huile ; volant bi-masse fatigué (TDI).

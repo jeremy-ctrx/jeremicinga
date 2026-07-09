@@ -91,3 +91,21 @@ Base constructeur : **1 an ou 15 000 km** (dCi : 20 000 km).
 | 1.2 DIG-T (J11), 12 000 km/an | 350 – 600 € (provision surveillance chaîne) |
 | 1.5 dCi, 20 000 km/an | 380 – 580 € |
 | e-Power, 12 000 km/an | 260 – 400 € |
+
+## 7. Achat d'occasion (50 000 km et plus)
+
+À ≤ 10 000 €, on vise un **Qashqai II (2014-2018)** — voir le [guide achat occasion](../guide-achat-occasion.md).
+
+**Factures à exiger** : vidanges annuelles (critiques sur 1.2 DIG-T) ; **vidange CVT tous les 60 000 km si automatique** (huile NS-3 — sans preuve, considérer la boîte comme à risque) ; courroie 1.5 dCi si > 6 ans ; bougies 60 000 km.
+
+**Échéances dans la fenêtre 50-130 000 km** : bougies, liquide de refroidissement, freins (SUV : ~70-90 000 km), vidanges CVT (60/120 000 km), courroie 1.5 dCi (160 000 km / 6 ans).
+
+| Cas | Budget de remise à niveau |
+|---|---|
+| 1.3 DIG-T avec factures | 200 – 450 € |
+| 1.2 DIG-T sans suivi d'huile documenté | **provision chaîne 700 – 1 200 €** — ou passer |
+| 1.5 dCi courroie non justifiée (> 6 ans) | 800 – 1 300 € |
+| CVT jamais vidangée | + 150 – 250 € immédiat, risque boîte 2 500 – 4 000 € |
+
+- ✅ **À privilégier** : 1.5 dCi 110 manuelle avec factures ; 1.6 dCi 130 (chaîne) ; à partir de 2019, 1.3 DIG-T.
+- ❌ **À éviter** : **1.2 DIG-T (2014-2017) sans historique complet** (cliquetis à froid = fuir) ; CVT sans preuve de vidange ; volant bi-masse fatigué sur dCi.

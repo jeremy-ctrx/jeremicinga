@@ -81,3 +81,20 @@ Base : **1 an ou 15-20 000 km** (Astra L PureTech : vidange 10-15 000 km / 1 an 
 | 1.2 PureTech (Astra L), 12 000 km/an | 370 – 620 € (provision courroie humide incluse) |
 | 1.4 Turbo (Astra J/K), 12 000 km/an | 300 – 500 € |
 | 1.5 BlueHDi / 1.6 CDTI, 20 000 km/an | 380 – 580 € |
+
+## 7. Achat d'occasion (50 000 km et plus)
+
+À ≤ 10 000 €, on vise une **Astra K (2016-2019)** — bon rapport prix/équipement, cote basse — voir le [guide achat occasion](../guide-achat-occasion.md).
+
+**Factures à exiger** : vidanges annuelles ; bougies 60 000 km (essence turbo) ; **courroie de distribution si > 8-10 ans ou proche de 150 000 km** (moteurs GM) ; filtre gazole régulier (CDTI).
+
+**Échéances dans la fenêtre 50-130 000 km** : bougies, liquide de refroidissement, freins (~80-100 000 km), courroie distribution GM/CDTI (150 000 km / 10 ans — à anticiper en négociation).
+
+| Cas | Budget de remise à niveau |
+|---|---|
+| 1.0/1.4 Turbo (K) avec factures | 200 – 450 € |
+| 1.4 Turbo A14NET (J) avec cliquetis | provision tendeur 600 – 1 000 € |
+| CDTI > 9 ans, courroie non faite | 800 – 1 300 € |
+
+- ✅ **À privilégier** : Astra K 1.4 Turbo 125/150 manuelle ; 1.6 CDTI 110/136 « Whisper » suivie pour gros rouleur.
+- ❌ **À éviter** : Astra L PureTech d'occasion **sans facture de courroie humide** (même problème que Peugeot) ; A14NET qui cliquette à froid ; CDTI de citadin (FAP/EGR).

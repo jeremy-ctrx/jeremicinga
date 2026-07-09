@@ -82,3 +82,21 @@ Base constructeur : **1 an ou 20 000 km** (recommandé : 15 000 km pour les EcoB
 | 1.25 Duratec, 10 000 km/an | 250 – 400 € |
 | 1.0 EcoBoost, 12 000 km/an | 320 – 550 € (provision courroie humide incluse) |
 | 1.5 TDCi, 20 000 km/an | 350 – 550 € |
+
+## 7. Achat d'occasion (50 000 km et plus)
+
+À ≤ 10 000 €, on vise une **Fiesta Mk7 (2013-2017)** ou une **Mk8 (2017-2019)** — voir le [guide achat occasion](../guide-achat-occasion.md).
+
+**Factures à exiger** : sur **1.0 EcoBoost, chaque vidange avec huile homologuée Ford** (le point décisif : la courroie humide en dépend) ; bougies 60 000 km ; **courroie humide si > 8 ans ou > 120 000 km** ; courroie 1.25 Duratec / TDCi si > 8 ans.
+
+**Échéances dans la fenêtre 50-130 000 km** : bougies (60/120 000 km), liquide de refroidissement (~90 000 km), freins (~80-100 000 km), **courroie humide EcoBoost (120-150 000 km recommandé)**.
+
+| Cas | Budget de remise à niveau |
+|---|---|
+| 1.25 Duratec avec factures | 200 – 450 € |
+| EcoBoost suivi, courroie faite | 250 – 500 € |
+| EcoBoost sans facture de courroie ni d'huile | **1 100 – 1 600 €** (courroie humide + révision) — ou passer son chemin |
+| TDCi courroie non justifiée (> 8 ans) | 750 – 1 200 € |
+
+- ✅ **À privilégier** : 1.25 Duratec (simple et solide) ; 1.0 EcoBoost **avec dossier de factures complet et courroie faite**.
+- ❌ **À éviter** : EcoBoost sans historique (crépine d'huile → casse) ; **boîte PowerShift** (Mk7 auto) ; EcoBoost avant 2015 sans preuve d'intervention refroidissement.

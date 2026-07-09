@@ -83,3 +83,20 @@ Base constructeur : **1 an ou 15 000 km**.
 | Hybride 122h/140h, 15 000 km/an | 220 – 360 € |
 | 1.2 Turbo, 12 000 km/an | 260 – 420 € |
 | 1.4 D-4D (Auris), 20 000 km/an | 320 – 500 € |
+
+## 7. Achat d'occasion (50 000 km et plus)
+
+À ≤ 10 000 €, on vise une **Auris II hybride 136h (2014-2018)** — la Corolla XII reste au-dessus du budget sauf fort kilométrage — voir le [guide achat occasion](../guide-achat-occasion.md).
+
+**Factures à exiger** : révisions annuelles, idéalement réseau Toyota (**prolonge la garantie batterie hybride jusqu'à 10 ans / 200 000 km**) ; liquide de frein ; bougies vers 90-100 000 km.
+
+**Échéances dans la fenêtre 50-130 000 km** : bougies iridium (~90-100 000 km), liquides moteur + inverter (contrôle), freins (corrosion des disques peu sollicités), batterie 12 V, huile e-CVT conseillée (~100-120 000 km).
+
+| Cas | Budget de remise à niveau |
+|---|---|
+| Hybride suivie en réseau | 100 – 300 € |
+| Hybride historique incomplet | 350 – 600 € (révision complète + bougies + liquides + huile e-CVT + contrôle batterie) |
+| D-4D avec factures | 250 – 500 € |
+
+- ✅ **À privilégier** : Auris II 136h Touring Sports (break) ou berline, entretien Toyota.
+- ❌ **À éviter** : hybride longtemps immobilisée ; 2.0 D-4D 2007-2009 (consommation d'huile) ; disques arrière corrodés à faire chiffrer avant achat.

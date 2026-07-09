@@ -77,3 +77,20 @@ VW propose l'entretien « LongLife » (jusqu'à 2 ans / 30 000 km) — **préfé
 | 1.0 TSI (Polo VI), 10 000 km/an | 260 – 420 € |
 | 1.2 TSI EA111 (Polo V), 10 000 km/an | 320 – 550 € |
 | 1.6 TDI, 20 000 km/an | 350 – 550 € |
+
+## 7. Achat d'occasion (50 000 km et plus)
+
+À ≤ 10 000 €, on vise une **Polo V restylée (2014-2017)** ou une **Polo VI début de série (2017-2019)** — voir le [guide achat occasion](../guide-achat-occasion.md).
+
+**Factures à exiger** : vidanges (fixe 15 000 km plutôt que LongLife) ; bougies 60 000 km (TSI) ; interventions chaîne/tendeur sur EA111 ; mises à jour / réparations DSG7 si automatique ; courroie TDI si proche de 10 ans.
+
+**Échéances dans la fenêtre 50-130 000 km** : bougies (60/120 000 km), liquide de refroidissement, freins (~80-100 000 km), **courroie EA211/TDI vers 150 000 km ou 10 ans** (à anticiper en négociation).
+
+| Cas | Budget de remise à niveau |
+|---|---|
+| 1.0 MPI / 1.0 TSI (EA211) avec factures | 200 – 450 € |
+| TSI EA111 (2009-2014) sans intervention tendeur documentée | provision 600 – 1 000 € |
+| TDI > 9 ans, courroie non faite | 750 – 1 200 € |
+
+- ✅ **À privilégier** : Polo VI 1.0 TSI 95 boîte manuelle ; Polo V 1.2 TSI EA211 (2014+).
+- ❌ **À éviter** : 1.2 TSI EA111 avec cliquetis à froid ; **DSG7 sans historique** (essai : à-coups aux faibles vitesses = fuir) ; LongLife jamais converti en entretien fixe.

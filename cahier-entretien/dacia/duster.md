@@ -88,3 +88,20 @@ Base constructeur : **1 an ou 15 000 km** (dCi : 20 000 km). GPL : contrôle cir
 | 1.3 TCe, 12 000 km/an | 270 – 430 € |
 | 1.5 dCi/Blue dCi, 20 000 km/an | 350 – 550 € |
 | Hybrid 140, 12 000 km/an | 240 – 380 € |
+
+## 7. Achat d'occasion (50 000 km et plus)
+
+À ≤ 10 000 €, on vise un **Duster I restylé (2014-2017)** ou un **Duster II premiers millésimes (2018-2019)** — voir le [guide achat occasion](../guide-achat-occasion.md).
+
+**Factures à exiger** : vidanges annuelles ; **courroie dCi / 1.6 K4M si > 6 ans** (échéance temps très souvent dépassée sur Duster) ; bougies (plus fréquentes si GPL) ; entretien spécifique GPL (filtres ~30 000 km) ; vidange coupleur si 4x4.
+
+**Échéances dans la fenêtre 50-130 000 km** : bougies, liquide de refroidissement, freins, courroie distribution (K4M 120 000 km / dCi 160 000 km — **et 6 ans dans les deux cas**), contrôle étanchéité réservoir GPL (8-10 ans).
+
+| Cas | Budget de remise à niveau |
+|---|---|
+| 1.0/1.3 TCe (chaîne) avec factures | 200 – 450 € |
+| dCi ou 1.6 K4M courroie non justifiée (> 6 ans) | 800 – 1 350 € |
+| GPL sans entretien spécifique documenté | + 150 – 350 € (filtres + contrôle circuit) |
+
+- ✅ **À privilégier** : 1.5 dCi 110 4x2 avec factures (le classique fiable) ; Duster II 1.0 TCe ECO-G si le circuit GPL est suivi. **À La Réunion : inspection corrosion sous caisse impérative** (point faible du Duster I + climat marin).
+- ❌ **À éviter** : 1.2 TCe 125 (2013-2017) sans suivi d'huile ; 4x4 avec cardans/coupleur bruyants ; sous-caisse rongée.

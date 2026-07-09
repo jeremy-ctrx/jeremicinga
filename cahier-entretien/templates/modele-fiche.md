@@ -49,3 +49,19 @@ Base : {intervalle constructeur}. Prendre l'échéance atteinte en premier (km *
 |---|---|
 | Essence, 10 000 km/an | xxx – xxx € |
 | Diesel, 20 000 km/an | xxx – xxx € |
+
+## 7. Achat d'occasion (50 000 km et plus)
+
+À ≤ 10 000 €, on vise {génération(s) accessible(s)} — voir le [guide achat occasion](../guide-achat-occasion.md).
+
+**Factures à exiger** : {vidanges, bougies, distribution, vidange BVA…}
+
+**Échéances dans la fenêtre 50-130 000 km** : {liste}
+
+| Cas | Budget de remise à niveau |
+|---|---|
+| {version saine avec factures} | xxx – xxx € |
+| {version à risque sans historique} | xxx – x xxx € |
+
+- ✅ **À privilégier** : {versions}
+- ❌ **À éviter** : {versions / configurations}

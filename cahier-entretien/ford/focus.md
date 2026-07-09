@@ -81,3 +81,21 @@ Base constructeur : **1 an ou 20 000 km** (recommandé : 15 000 km pour les mote
 | 1.0 EcoBoost, 12 000 km/an | 340 – 570 € (provision courroie humide incluse) |
 | 1.5 EcoBlue, 20 000 km/an | 400 – 650 € |
 | 2.0 EcoBlue, 25 000 km/an | 420 – 650 € |
+
+## 7. Achat d'occasion (50 000 km et plus)
+
+À ≤ 10 000 €, on vise une **Focus Mk3 (2013-2018)** ou une **Mk4 début de série (2018-2019)** — voir le [guide achat occasion](../guide-achat-occasion.md).
+
+**Factures à exiger** : vidanges avec huile homologuée Ford (EcoBoost/EcoBlue à courroie humide) ; bougies 60 000 km ; **courroie humide si > 8 ans ou > 120 000 km** ; courroie TDCi/Ti-VCT si > 8 ans ; filtre gazole régulier (diesel).
+
+**Échéances dans la fenêtre 50-130 000 km** : bougies, liquide de refroidissement (~90 000 km), freins (~80-100 000 km), **courroie humide EcoBoost / 1.5 EcoBlue (120-150 000 km recommandé)**.
+
+| Cas | Budget de remise à niveau |
+|---|---|
+| EcoBoost suivi, courroie faite | 250 – 500 € |
+| EcoBoost/EcoBlue 1.5 sans facture de courroie | **1 200 – 1 700 €** — ou passer son chemin |
+| TDCi courroie non justifiée (> 8 ans) | 800 – 1 300 € |
+| 2.0 EcoBlue (chaîne) avec factures | 250 – 500 € |
+
+- ✅ **À privilégier** : Mk3 restylée 1.0 EcoBoost 125 avec dossier complet ; Mk4 2.0 EcoBlue (chaîne) pour gros rouleur.
+- ❌ **À éviter** : **PowerShift** (Mk3 auto 2011-2016) ; EcoBoost sans historique ; volant bi-masse fatigué sur TDCi (vibrations au ralenti à l'essai).

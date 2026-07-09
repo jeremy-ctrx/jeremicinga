@@ -84,3 +84,20 @@ Base constructeur : **1 an ou 15 000 km** (essence) / **20 000 km** (dCi).
 | 1.2 TCe (Captur I), 12 000 km/an | 300 – 500 € |
 | 1.5 dCi, 20 000 km/an | 360 – 570 € |
 | E-Tech hybride, 12 000 km/an | 230 – 360 € |
+
+## 7. Achat d'occasion (50 000 km et plus)
+
+À ≤ 10 000 €, on vise un **Captur I (2014-2019)**, éventuellement un Captur II 1.0 TCe début de série — voir le [guide achat occasion](../guide-achat-occasion.md).
+
+**Factures à exiger** : vidanges annuelles ; bougies 60 000 km (TCe) ; **courroie dCi si > 6 ans** ; vidange EDC 60 000 km si automatique.
+
+**Échéances dans la fenêtre 50-130 000 km** : bougies (60/120 000 km), liquide de refroidissement (~90 000 km), freins (~80-100 000 km), courroie dCi (6 ans / 160 000 km).
+
+| Cas | Budget de remise à niveau |
+|---|---|
+| 0.9/1.0 TCe (chaîne) avec factures | 150 – 400 € |
+| TCe sans historique | 400 – 700 € |
+| dCi courroie non justifiée (> 6 ans) | 800 – 1 300 € |
+
+- ✅ **À privilégier** : 0.9 TCe 90 suivi ; 1.5 dCi 90 avec factures ; Captur II 1.0 TCe.
+- ❌ **À éviter** : 1.2 TCe 120 sans preuve de suivi d'huile ; EDC avec à-coups ; contrôler les silentblocs de train arrière à l'essai.

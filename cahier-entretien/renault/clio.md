@@ -94,3 +94,20 @@ Base constructeur : **révision tous les 1 an ou 15 000 km** (essence) / **20 00
 | 0.9/1.2 TCe (Clio IV), 12 000 km/an | 300 – 500 € |
 | 1.5 dCi, 20 000 km/an | 350 – 550 € |
 | E-Tech hybride, 12 000 km/an | 220 – 350 € |
+
+## 7. Achat d'occasion (50 000 km et plus)
+
+À ≤ 10 000 €, on vise une **Clio IV (2013-2019)** ou une **Clio V TCe 100 début de série** — voir le [guide achat occasion](../guide-achat-occasion.md).
+
+**Factures à exiger** : vidanges annuelles sans trou ; bougies à 60 000 km (TCe) ; liquide de frein tous les 2 ans ; **courroie de distribution dCi si la voiture a plus de 6 ans** (même à 80 000 km — échéance temps).
+
+**Échéances qui tombent dans la fenêtre 50-130 000 km** : bougies (60 et 120 000 km), liquide de refroidissement (~90 000 km), disques + plaquettes (~80-100 000 km), courroie dCi (6 ans / 160 000 km).
+
+| Cas | Budget de remise à niveau |
+|---|---|
+| TCe (chaîne) avec factures | 150 – 400 € (révision + liquides) |
+| TCe sans historique | 400 – 700 € (révision complète + bougies + liquides) |
+| dCi courroie non justifiée (> 6 ans) | 800 – 1 300 € (courroie + révision complète) |
+
+- ✅ **À privilégier** : 0.9 TCe 90 avec factures ; 1.5 dCi de gros rouleur suivi ; Clio V 1.0 TCe.
+- ❌ **À éviter** : 1.2 TCe 120 (H5F) sans preuve de suivi d'huile (consommation d'huile → casse) ; essai à froid impératif, contrôler la jauge.

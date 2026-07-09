@@ -13,9 +13,13 @@ Quand l'utilisateur mentionne une marque et/ou un modèle de voiture (ex. « ajo
    - intervalles d'entretien constructeur ;
    - points faibles / rappels connus ;
    - prix approximatifs des opérations en France (fourchette indépendant → concession).
-2. **Créer la fiche** `cahier-entretien/<marque>/<modele>.md` en suivant strictement la structure de `cahier-entretien/templates/modele-fiche.md` (mêmes sections, mêmes formats de tableaux, prix en €).
+2. **Créer la fiche** `cahier-entretien/<marque>/<modele>.md` en suivant strictement la structure de `cahier-entretien/templates/modele-fiche.md` (mêmes sections, mêmes formats de tableaux, prix en €) — **y compris la section 7 « Achat d'occasion (50 000 km et plus) »** orientée budget ≤ 10 000 € / 50 000 – 130 000 km.
 3. **Mettre à jour l'index** dans `cahier-entretien/README.md` (tableau « Index des modèles », trié par marque puis modèle).
 4. **Committer et pousser** sur la branche de travail avec un message du type `Ajout fiche entretien <Marque> <Modèle>`.
+
+## Skill de recherche d'occasions
+
+Le skill `occasion-reunion` (`.claude/skills/occasion-reunion/SKILL.md`) cherche des bonnes affaires à La Réunion (Leboncoin / Facebook Marketplace, ≤ 10 000 €, 50 000 – 130 000 km) en croisant les annonces avec les fiches du cahier. L'invoquer quand l'utilisateur demande de trouver/évaluer une occasion ou colle une annonce.
 
 ## Conventions
 

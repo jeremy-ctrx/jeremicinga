@@ -91,3 +91,21 @@ Base constructeur : **1 an ou 15 000 km** (essence) / **20 000 km** (dCi).
 | 1.3 TCe, 12 000 km/an | 280 – 450 € |
 | 1.5 dCi, 20 000 km/an | 380 – 600 € |
 | E-Tech électrique, 12 000 km/an | 150 – 250 € |
+
+## 7. Achat d'occasion (50 000 km et plus)
+
+À ≤ 10 000 €, on vise une **Mégane III (2012-2016)** ou une **Mégane IV (2016-2018)** — voir le [guide achat occasion](../guide-achat-occasion.md).
+
+**Factures à exiger** : vidanges annuelles ; bougies 60 000 km (TCe) ; **courroie K4M / dCi si > 6 ans** ; vidange boîte EDC tous les 60 000 km si automatique.
+
+**Échéances dans la fenêtre 50-130 000 km** : bougies, liquide de refroidissement (~90 000 km), freins complets (~80-100 000 km), courroie distribution (K4M 120 000 km, dCi 160 000 km / 6 ans).
+
+| Cas | Budget de remise à niveau |
+|---|---|
+| 1.3 TCe (chaîne) avec factures | 150 – 400 € |
+| TCe sans historique | 450 – 750 € |
+| dCi courroie non justifiée (> 6 ans) | 850 – 1 400 € |
+| EDC jamais vidangée | + 150 – 250 € (et essai prolongé impératif) |
+
+- ✅ **À privilégier** : Mégane IV 1.3 TCe 140 boîte manuelle ; 1.5 dCi 110 avec factures pour gros rouleur.
+- ❌ **À éviter** : 1.2 TCe (2012-2017) sans suivi d'huile ; EDC avec à-coups à l'essai ; dCi de citadin (EGR/FAP).

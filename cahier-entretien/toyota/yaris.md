@@ -82,3 +82,20 @@ Base constructeur : **1 an ou 15 000 km**. Les forfaits Toyota sont parmi les mo
 | Hybride 100h/116h, 12 000 km/an | 200 – 330 € |
 | 1.0 VVT-i, 8 000 km/an | 200 – 320 € |
 | 1.4 D-4D, 20 000 km/an | 300 – 480 € |
+
+## 7. Achat d'occasion (50 000 km et plus)
+
+À ≤ 10 000 €, on vise une **Yaris III hybride 100h (2014-2019)** — probablement **le meilleur rapport tranquillité/prix de tout ce cahier** — voir le [guide achat occasion](../guide-achat-occasion.md).
+
+**Factures à exiger** : révisions annuelles, idéalement en réseau Toyota (**chaque contrôle réseau prolonge la garantie batterie hybride jusqu'à 10 ans / 200 000 km**) ; liquide de frein tous les 2-3 ans ; bougies vers 90-100 000 km.
+
+**Échéances dans la fenêtre 50-130 000 km** : bougies iridium (~90-100 000 km), liquides de refroidissement moteur + inverter (contrôle), freins (tardifs sur hybride mais **vérifier la corrosion des disques**), batterie 12 V (5-6 ans).
+
+| Cas | Budget de remise à niveau |
+|---|---|
+| Hybride suivie en réseau | 100 – 300 € |
+| Hybride historique incomplet | 300 – 550 € (révision + bougies + liquides + contrôle batterie hybride 60-100 €) |
+| 1.0/1.33 essence sans historique | 300 – 550 € |
+
+- ✅ **À privilégier** : hybride 100h entretenue Toyota (garantie batterie active) ; 1.0 VVT-i pour petit budget urbain.
+- ❌ **À éviter** : hybride immobilisée longtemps (batterie 12 V et traction à contrôler) ; disques arrière rongés (freinage régénératif : 150-300 €) ; embrayage fatigué sur boîte manuelle urbaine.
