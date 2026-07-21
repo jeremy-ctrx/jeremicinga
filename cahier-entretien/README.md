@@ -40,6 +40,12 @@ Méga cahier d'entretien **par modèle, par moteur et par année** : échéances
 | Peugeot | 3008 (I, II, III) | [peugeot/3008.md](peugeot/3008.md) |
 | Renault | Captur (I, II) | [renault/captur.md](renault/captur.md) |
 
+### 🏎️ Coupés & sportives
+
+| Marque | Modèle | Fiche |
+|---|---|---|
+| Audi | TT (Mk1, Mk2, Mk3) | [audi/tt.md](audi/tt.md) |
+
 ## 🧾 Documents communs
 
 - [Guide des tarifs main-d'œuvre & opérations courantes](guide-tarifs.md)
