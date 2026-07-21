@@ -19,7 +19,8 @@
 | 1.2 TSI 90-110 ch (EA111) | CBZB/CBZC | 2009-2014 | Chaîne | à vie (**tendeur fragile**) | 600 – 1 000 € si intervention |
 | 1.2 TSI 90 ch (EA211) | CJZC | 2014-2017 | Courroie | pas d'intervalle officiel — conseillé 150 000 km / 10 ans | 400 – 650 € |
 | 1.0 MPI 60-80 ch | CHYA/CHYB | 2014-2021 | Courroie | conseillé 150 000 km / 10 ans | 350 – 550 € |
-| 1.0 TSI 95-115 ch | DKLA/DKJA | 2017-… | Courroie | conseillé 150 000 km / 10 ans | 400 – 650 € |
+| 1.0 TSI 95 ch | CHZL | 2017-2021 | Courroie | conseillé 150 000 km / 10 ans | 400 – 650 € |
+| 1.0 TSI 95-115 ch | DKLA/DKJA | 2018-… | Courroie | conseillé 150 000 km / 10 ans | 400 – 650 € |
 | 2.0 TSI 200-207 ch (GTI) | EA888 | 2017-… | Chaîne | à vie | — |
 
 ### Diesel
