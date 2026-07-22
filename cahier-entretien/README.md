@@ -12,6 +12,8 @@ Méga cahier d'entretien **par modèle, par moteur et par année** : échéances
 |---|---|---|
 | Citroën | C3 (II, III, IV) | [citroen/c3.md](citroen/c3.md) |
 | Ford | Fiesta (Mk7, Mk8) | [ford/fiesta.md](ford/fiesta.md) |
+| Hyundai | i20 (I, II, III) | [hyundai/i20.md](hyundai/i20.md) |
+| MINI | Hatch One/Cooper (R56, F56) | [mini/mini.md](mini/mini.md) |
 | Peugeot | 208 (I, II) | [peugeot/208.md](peugeot/208.md) |
 | Renault | Clio (III, IV, V) | [renault/clio.md](renault/clio.md) |
 | Toyota | Yaris (II, III, IV) | [toyota/yaris.md](toyota/yaris.md) |
@@ -33,16 +35,27 @@ Méga cahier d'entretien **par modèle, par moteur et par année** : échéances
 | Marque | Modèle | Fiche |
 |---|---|---|
 | Dacia | Duster (I, II, III) | [dacia/duster.md](dacia/duster.md) |
+| Ford | Kuga (I, II, III) | [ford/kuga.md](ford/kuga.md) |
 | Nissan | Qashqai (I, II, III) | [nissan/qashqai.md](nissan/qashqai.md) |
 | Peugeot | 2008 (I, II) | [peugeot/2008.md](peugeot/2008.md) |
 | Peugeot | 3008 (I, II, III) | [peugeot/3008.md](peugeot/3008.md) |
 | Renault | Captur (I, II) | [renault/captur.md](renault/captur.md) |
+
+### 🏎️ Coupés & sportives
+
+| Marque | Modèle | Fiche |
+|---|---|---|
+| Audi | TT (Mk1, Mk2, Mk3) | [audi/tt.md](audi/tt.md) |
 
 ## 🧾 Documents communs
 
 - [Guide des tarifs main-d'œuvre & opérations courantes](guide-tarifs.md)
 - [**Guide d'achat occasion (50 000 km et +, cible ≤ 10 000 € / ≤ 130 000 km)**](guide-achat-occasion.md) — méthode, checklist d'inspection, spécificités La Réunion, barème de négociation
 - [Modèle de fiche pour ajouter une voiture](templates/modele-fiche.md)
+
+## 🎯 Ma sélection en cours
+
+Les annonces analysées à La Réunion sont suivies et classées dans [**selection-occasions-reunion.md**](selection-occasions-reunion.md) (prix réel, score, verdict).
 
 ## 🔍 Skill « chasse aux bonnes affaires »
 
