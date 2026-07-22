@@ -35,6 +35,7 @@ Méga cahier d'entretien **par modèle, par moteur et par année** : échéances
 | Marque | Modèle | Fiche |
 |---|---|---|
 | Dacia | Duster (I, II, III) | [dacia/duster.md](dacia/duster.md) |
+| Ford | Kuga (I, II, III) | [ford/kuga.md](ford/kuga.md) |
 | Nissan | Qashqai (I, II, III) | [nissan/qashqai.md](nissan/qashqai.md) |
 | Peugeot | 2008 (I, II) | [peugeot/2008.md](peugeot/2008.md) |
 | Peugeot | 3008 (I, II, III) | [peugeot/3008.md](peugeot/3008.md) |
