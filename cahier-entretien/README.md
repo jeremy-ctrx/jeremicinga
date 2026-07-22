@@ -53,6 +53,10 @@ Méga cahier d'entretien **par modèle, par moteur et par année** : échéances
 - [**Guide d'achat occasion (50 000 km et +, cible ≤ 10 000 € / ≤ 130 000 km)**](guide-achat-occasion.md) — méthode, checklist d'inspection, spécificités La Réunion, barème de négociation
 - [Modèle de fiche pour ajouter une voiture](templates/modele-fiche.md)
 
+## 🎯 Ma sélection en cours
+
+Les annonces analysées à La Réunion sont suivies et classées dans [**selection-occasions-reunion.md**](selection-occasions-reunion.md) (prix réel, score, verdict).
+
 ## 🔍 Skill « chasse aux bonnes affaires »
 
 Le skill **`/occasion-reunion`** (dans `.claude/skills/occasion-reunion/`) recherche des occasions à **La Réunion** sur Leboncoin / Facebook Marketplace (max 10 000 €, 50 000 – 130 000 km), croise chaque annonce avec les fiches de ce cahier (échéances dues, points faibles, budget de rattrapage), calcule le **prix réel** et classe les bonnes affaires. On peut aussi lui coller une annonce (texte ou capture) pour analyse directe.
