@@ -14,6 +14,7 @@ Méga cahier d'entretien **par modèle, par moteur et par année** : échéances
 | Ford | Fiesta (Mk7, Mk8) | [ford/fiesta.md](ford/fiesta.md) |
 | Hyundai | i20 (I, II, III) | [hyundai/i20.md](hyundai/i20.md) |
 | MINI | Hatch One/Cooper (R56, F56) | [mini/mini.md](mini/mini.md) |
+| Opel | Adam (M13) | [opel/adam.md](opel/adam.md) |
 | Peugeot | 208 (I, II) | [peugeot/208.md](peugeot/208.md) |
 | Renault | Clio (III, IV, V) | [renault/clio.md](renault/clio.md) |
 | Toyota | Yaris (II, III, IV) | [toyota/yaris.md](toyota/yaris.md) |

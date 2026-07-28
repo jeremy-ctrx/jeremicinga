@@ -14,6 +14,7 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 | 4 | **MINI One D F56 1.5 D 95** (Saint-Paul, pro) | 2016 / 120 000 | Diesel | 8 990 € | ~9 500 € | ★★ | Diesel premium, coûts élevés |
 | 5 | **VW Polo 1.0 TSI 95** (CHZL) | ? | Essence | à chiffrer | à chiffrer | — | Essence fiable, infos manquantes |
 | 6 | **Audi TT 2.0 TFSI** (Marketplace) | ? / ? | Essence | 11 000 € (↘ 13 900) | à chiffrer | — | ⚠️ **hors budget** + chaîne/huile à vérifier |
+| 7 | **Opel Adam 1.4 87 ch** (B14XEL) | ? | Essence | à chiffrer | à chiffrer | — | ✅ chaîne, mécanique Corsa simple |
 
 ## Détail par annonce
 
@@ -51,3 +52,10 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 - ⚠️ Identifier le moteur : EA113 (courroie, 2006-2008) ou **EA888 gen2 (chaîne + tendeur fragile + conso d'huile, 2008-2014)**
 - **Infos manquantes** : année, km, code moteur, historique tendeur/chaîne, conso d'huile
 - Coupé plaisir premium : 450-750 €/an d'entretien, à réserver si coup de cœur assumé
+
+### 7. Opel Adam 1.4 87 ch (B14XEL) — à chiffrer
+- **Fiche** : [opel/adam.md](opel/adam.md) · fiche technique piecesenstock.re
+- ✅ **Chaîne de distribution** (pas de courroie), mécanique Corsa D/E simple et pièces bon marché
+- Largement dans le budget (Adam d'occasion : ~5 000 – 9 000 €)
+- À vérifier : bougies (60/120 000 km), pompe à eau, direction assistée électrique, clim
+- **Infos manquantes** : prix, année, km, GPL ou pas
