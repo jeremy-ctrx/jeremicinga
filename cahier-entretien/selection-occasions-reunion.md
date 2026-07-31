@@ -8,7 +8,8 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 
 | # | Véhicule | Année / km | Carburant | Prix affiché | Prix réel estimé | Score | Verdict express |
 |---|---|---|---|---|---|---|---|
-| 1 | **Hyundai i20 1.0 T-GDi 100** (Saint-Pierre, LBC) | 2017 / 123 000 | Essence | 6 500 € | ~7 000 € | ★★★ | Chaîne, aucun piège — **le plus sûr** |
+| 1 | **Hyundai i20 II 1.0 T-GDi 100** (Saint-Pierre, LBC) | 2017 / 123 000 | Essence | 6 500 € | ~7 000 € | ★★★ | Chaîne, aucun piège — **le meilleur rapport** |
+| 1 bis | **Hyundai i20 III 1.0 T-GDi 100 Intuitive** (Sainte-Marie, FB) | 2021 / 69 800 | Essence | 13 000 € | ~13 000 € | ★★ | Récente, faible km, saine — mais **hors budget** |
 | 2 | **Peugeot 208 PureTech 100** (Saint-Pierre, pro) | 2020 / 91 241 | Essence | 8 900 € | 9 100 – 10 600 € | ★★ | ⚠️ courroie humide à vérifier |
 | 3 | **Ford Kuga 2.0 TDCi 120** (Plaine des Palmistes, pro) | 2016 / 118 000 | Diesel | 9 800 € | ~10 800 € | ★★ | SUV familial, **gros rouleur only** |
 | 4 | **MINI One D F56 1.5 D 95** (Saint-Paul, pro) | 2016 / 120 000 | Diesel | 8 990 € | ~9 500 € | ★★ | Diesel premium, coûts élevés |
@@ -23,6 +24,13 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 - ✅ Essence à **chaîne**, pas de courroie, boîte manuelle, aucun gros poste caché
 - À vérifier : bougies (60/120 000 km), embrayage (broutement), corrosion sous caisse
 - Négociation : viser 5 900 – 6 200 € si bougies/liquides non justifiés
+
+### 1 bis. Hyundai i20 III 1.0 T-GDi 100 Intuitive — 13 000 € ★★ (hors budget)
+- **Fiche** : [hyundai/i20.md](hyundai/i20.md) · Sainte-Marie, Facebook Marketplace, 2021, 69 800 km
+- ✅ Excellent état mécanique attendu : essence à **chaîne**, faible km, récente ; encore couverte par la **garantie Hyundai 5 ans** (jusqu'en 2026)
+- ⚠️ **13 000 € = au-dessus du plafond de 10 000 €** ; peu de rattrapage à prévoir (prix réel ≈ prix affiché)
+- À demander : carnet Hyundai à jour (garantie), transfert de garantie possible, bougies encore d'origine
+- Négociation : bien renseignée à 13 000 € mais marché tendu sur les i20 récentes ; viser 12 000 – 12 500 €
 
 ### 2. Peugeot 208 PureTech 100 — 8 900 € ★★
 - **Fiche** : [peugeot/208.md](peugeot/208.md) · Saint-Pierre, pro, 2020, 91 241 km
