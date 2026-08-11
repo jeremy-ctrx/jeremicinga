@@ -17,6 +17,7 @@ Méga cahier d'entretien **par modèle, par moteur et par année** : échéances
 | Opel | Adam (M13) | [opel/adam.md](opel/adam.md) |
 | Peugeot | 208 (I, II) | [peugeot/208.md](peugeot/208.md) |
 | Renault | Clio (III, IV, V) | [renault/clio.md](renault/clio.md) |
+| Suzuki | Swift & Swift Sport | [suzuki/swift.md](suzuki/swift.md) |
 | Toyota | Yaris (II, III, IV) | [toyota/yaris.md](toyota/yaris.md) |
 | Volkswagen | Polo (V, VI) | [volkswagen/polo.md](volkswagen/polo.md) |
 

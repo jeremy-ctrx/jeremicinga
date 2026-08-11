@@ -16,6 +16,7 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 | 5 | **VW Polo 1.0 TSI 95** (CHZL) | ? | Essence | à chiffrer | à chiffrer | — | Essence fiable, infos manquantes |
 | 6 | **Audi TT 2.0 TFSI** (Marketplace) | ? / ? | Essence | 11 000 € (↘ 13 900) | à chiffrer | — | ⚠️ **hors budget** + chaîne/huile à vérifier |
 | 7 | **Opel Adam 1.4 87 ch** (B14XEL) | ? | Essence | à chiffrer | à chiffrer | — | ✅ chaîne, mécanique Corsa simple |
+| 8 | **Suzuki Swift Sport** (ZC33S, Saint-Denis, FB) | ? / ? | Essence | 13 000 € | ~13 000 € | ★★ | ✅ chaîne, très fiable — mais **hors budget** |
 
 ## Détail par annonce
 
@@ -67,3 +68,10 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 - Largement dans le budget (Adam d'occasion : ~5 000 – 9 000 €)
 - À vérifier : bougies (60/120 000 km), pompe à eau, direction assistée électrique, clim
 - **Infos manquantes** : prix, année, km, GPL ou pas
+
+### 8. Suzuki Swift Sport (ZC33S) — 13 000 € ★★ (hors budget)
+- **Fiche** : [suzuki/swift.md](suzuki/swift.md) · Saint-Denis, Facebook Marketplace, ajoutée il y a 6 h
+- ✅ 1.4 BoosterJet turbo à **chaîne**, voiture légère (~975 kg), fiabilité Suzuki excellente
+- ⚠️ **13 000 € = au-dessus du plafond de 10 000 €** ; c'est une sportive récente (2018+), la cote reste haute
+- À vérifier : suivi d'huile (légère conso connue), **embrayage** (usage sportif), plaquettes, corrosion, historique (voiture « plaisir » = parfois malmenée)
+- **Infos manquantes** : année, km — les demander pour chiffrer
