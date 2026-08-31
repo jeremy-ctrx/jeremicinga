@@ -8,7 +8,7 @@ description: Recherche de bonnes affaires en véhicules d'occasion à La Réunio
 ## Critères par défaut (sauf indication contraire de l'utilisateur)
 
 - **Lieu** : La Réunion (974) — toute l'île
-- **Prix** : ≤ 10 000 €
+- **Prix** : ≤ **~13 000 €** (le sweet spot « bonne affaire » reste ≤ 10 000 € ; signaler quand une annonce dépasse 10 000 €)
 - **Kilométrage** : 50 000 – 130 000 km
 - **Modèles** : celui donné en argument, sinon les modèles du cahier (`cahier-entretien/README.md`), en privilégiant les mieux notés en budget/fiabilité : Toyota Yaris hybride, Corolla/Auris hybride, Renault Clio IV/V TCe, Captur, Dacia Duster, Peugeot 208/2008 (PureTech **uniquement** si courroie faite), VW Polo 1.0 TSI.
 
