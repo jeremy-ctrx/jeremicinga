@@ -17,6 +17,7 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 | 6 | **Audi TT 2.0 TFSI** (Marketplace) | ? / ? | Essence | 11 000 € (↘ 13 900) | à chiffrer | — | ⚠️ **hors budget** + chaîne/huile à vérifier |
 | 7 | **Opel Adam 1.4 87 ch** (B14XEL) | ? | Essence | à chiffrer | à chiffrer | — | ✅ chaîne, mécanique Corsa simple |
 | 8 | **Suzuki Swift Sport** (ZC33S, Saint-Denis, FB) | ? / ? | Essence | 13 000 € | ~13 000 € | ★★ | ✅ chaîne, très fiable — mais **hors budget** |
+| 9 | **Range Rover Evoque 2.0 TD4** (Saint-Denis, FB) | 2016 / 103 000 | Diesel | 14 500 € | 15 500 – 24 000 € ⚠️ | ★ | ⚠️ **courroie humide Ingenium + fiabilité fragile + hors budget** |
 
 ## Détail par annonce
 
@@ -75,3 +76,12 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 - ⚠️ **13 000 € = au-dessus du plafond de 10 000 €** ; c'est une sportive récente (2018+), la cote reste haute
 - À vérifier : suivi d'huile (légère conso connue), **embrayage** (usage sportif), plaquettes, corrosion, historique (voiture « plaisir » = parfois malmenée)
 - **Infos manquantes** : année, km — les demander pour chiffrer
+
+### 9. Range Rover Evoque 2.0 TD4 diesel — 14 500 € ★ (hors budget + risqué)
+- **Fiche** : [land-rover/range-rover-evoque.md](land-rover/range-rover-evoque.md) · Saint-Denis, Facebook Marketplace, 2016, 103 000 km, boîte manuelle, « moteur nickel », « pièces neuves facture à l'appui »
+- ⚠️ **Moteur Ingenium 2.0 diesel à courroie humide** : sans facture de courroie = 900-1 500 € immédiat + **risque casse 5 000-9 000 €**
+- ⚠️ Fiabilité Evoque réputée fragile (électronique, FAP/EGR/AdBlue, joints) ; entretien 700-1 200 €/an ; **réseau/pièces JLR chers et rares à La Réunion**
+- ⚠️ **14 500 € = très au-dessus du plafond de 10 000 €**, et le prix réel grimpe vite avec les aléas
+- Le vendeur annonce « nombreuses pièces neuves, factures à l'appui » : **exiger précisément lesquelles**, surtout la courroie humide, le FAP et l'embrayage
+- À faire absolument : **diagnostic par un spécialiste Land Rover** avant tout achat ; Histovec ; essai électronique complet
+- **Verdict** : le véhicule le plus risqué et le plus coûteux à assumer de toute la sélection — déconseillé sauf coup de cœur assumé avec réserve financière
