@@ -25,6 +25,7 @@ Méga cahier d'entretien **par modèle, par moteur et par année** : échéances
 
 | Marque | Modèle | Fiche |
 |---|---|---|
+| BMW | Série 1 (E87, F20/F21, F40) | [bmw/serie-1.md](bmw/serie-1.md) |
 | Ford | Focus (Mk3, Mk4) | [ford/focus.md](ford/focus.md) |
 | Opel | Astra (J, K, L) | [opel/astra.md](opel/astra.md) |
 | Peugeot | 308 (I, II, III) | [peugeot/308.md](peugeot/308.md) |

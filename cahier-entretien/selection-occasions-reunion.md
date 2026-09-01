@@ -11,13 +11,14 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 | 🥇 1 | **Hyundai i20 II 1.0 T-GDi 100** (Saint-Pierre, LBC) | 2017 / 123 000 | Essence | 6 500 € | ~7 000 € | ★★★ | Chaîne, aucun piège — **meilleur rapport qualité/prix** |
 | 🥈 2 | **Hyundai i20 III 1.0 T-GDi 100 Intuitive** (Sainte-Marie, FB) | 2021 / 69 800 | Essence | 13 000 € | ~13 000 € | ★★★ | **La plus sereine** : récente, faible km, sous garantie |
 | 🥉 3 | **Suzuki Swift Sport** (ZC33S, Saint-Denis, FB) | ? / ? | Essence | 13 000 € | ~13 000 € | ★★★ | Chaîne, fiable + fun — **meilleur compromis plaisir** (à vérifier km/embrayage) |
-| 4 | **Opel Adam 1.4 87 ch** (B14XEL) | ? | Essence | à chiffrer | à chiffrer | ★★★* | ✅ chaîne, mécanique Corsa simple et pas chère |
-| 5 | **VW Polo 1.0 TSI 95** (CHZL) | ? | Essence | à chiffrer | à chiffrer | ★★* | Essence fiable (EA211), infos manquantes |
-| 6 | **Peugeot 208 PureTech 100** (Saint-Pierre, pro) | 2020 / 91 241 | Essence | 8 900 € | 9 100 – 10 600 € | ★★ | ⚠️ courroie humide à vérifier |
-| 7 | **Ford Kuga 2.0 TDCi 120** (Plaine des Palmistes, pro) | 2016 / 118 000 | Diesel | 9 800 € | ~10 800 € | ★★ | SUV familial, **gros rouleur only** |
-| 8 | **MINI One D F56 1.5 D 95** (Saint-Paul, pro) | 2016 / 120 000 | Diesel | 8 990 € | ~9 500 € | ★★ | Diesel premium, coûts élevés |
-| 9 | **Audi TT 2.0 TFSI** (Marketplace) | ? / ? | Essence | 11 000 € (↘ 13 900) | à chiffrer | ★★ | Coupé plaisir ; vérifier tendeur chaîne + conso d'huile |
-| 10 | **Range Rover Evoque 2.0 TD4** (Saint-Denis, FB) | 2016 / 103 000 | Diesel | 14 500 € | 15 500 – 24 000 € ⚠️ | ★ | ⚠️ **courroie humide Ingenium + fiabilité fragile + hors budget** |
+| 4 | **BMW Série 1 116i Pack Luxe** (F20, Saint-Louis, pro) | 2019 / 65 000 | Essence | 13 900 € | ~14 300 € | ★★★ | Propulsion, 1ère main, moteur B38 chaîne fiable — **coûts premium** |
+| 5 | **Opel Adam 1.4 87 ch** (B14XEL) | ? | Essence | à chiffrer | à chiffrer | ★★★* | ✅ chaîne, mécanique Corsa simple et pas chère |
+| 6 | **VW Polo 1.0 TSI 95** (CHZL) | ? | Essence | à chiffrer | à chiffrer | ★★* | Essence fiable (EA211), infos manquantes |
+| 7 | **Peugeot 208 PureTech 100** (Saint-Pierre, pro) | 2020 / 91 241 | Essence | 8 900 € | 9 100 – 10 600 € | ★★ | ⚠️ courroie humide à vérifier |
+| 8 | **Ford Kuga 2.0 TDCi 120** (Plaine des Palmistes, pro) | 2016 / 118 000 | Diesel | 9 800 € | ~10 800 € | ★★ | SUV familial, **gros rouleur only** |
+| 9 | **MINI One D F56 1.5 D 95** (Saint-Paul, pro) | 2016 / 120 000 | Diesel | 8 990 € | ~9 500 € | ★★ | Diesel premium, coûts élevés |
+| 10 | **Audi TT 2.0 TFSI** (Marketplace) | ? / ? | Essence | 11 000 € (↘ 13 900) | à chiffrer | ★★ | Coupé plaisir ; vérifier tendeur chaîne + conso d'huile |
+| 11 | **Range Rover Evoque 2.0 TD4** (Saint-Denis, FB) | 2016 / 103 000 | Diesel | 14 500 € | 15 500 – 24 000 € ⚠️ | ★ | ⚠️ **courroie humide Ingenium + fiabilité fragile + hors budget** |
 
 <sub>* score potentiel, sous réserve du prix/km/année à confirmer.</sub>
 
@@ -45,36 +46,45 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 - À demander : carnet Hyundai à jour (garantie), transfert de garantie possible, bougies encore d'origine
 - Négociation : bien renseignée à 13 000 € mais marché tendu sur les i20 récentes ; viser 12 000 – 12 500 €
 
-### 2. Peugeot 208 PureTech 100 — 8 900 € ★★
+### 7. Peugeot 208 PureTech 100 — 8 900 € ★★
 - **Fiche** : [peugeot/208.md](peugeot/208.md) · Saint-Pierre, pro, 2020, 91 241 km
 - ⚠️ **Courroie humide** : échéance 100 000 km / 6 ans imminente → facture ou −900/1 400 €
 - Exiger : facture courroie, huile PSA B71 2010, éligibilité garantie Stellantis
 
-### 3. Ford Kuga 2.0 TDCi 120 — 9 800 € ★★
+### 8. Ford Kuga 2.0 TDCi 120 — 9 800 € ★★
 - **Fiche** : [ford/kuga.md](ford/kuga.md) · Plaine des Palmistes, VLN Auto, 2016, 118 000 km
 - Moteur DW10 (courroie sèche + chaîne 2ndaire), boîte manuelle
 - ⚠️ Courroie due par l'âge (~10 ans) ; diesel = gros rouleur only (FAP/EGR) ; volant bi-masse
 - Négociation : viser 8 500 – 9 000 € ou exiger courroie + filtre gazole + CT
 
-### 4. MINI One D F56 1.5 D 95 — 8 990 € ★★
+### 9. MINI One D F56 1.5 D 95 — 8 990 € ★★
 - **Fiche** : [mini/mini.md](mini/mini.md) · Saint-Paul, pro, 2016, 120 000 km
 - Bonne génération (F56, moteur BMW B37 à chaîne)
 - ⚠️ Diesel citadin (FAP/EGR) ; embrayage/volant (1 300-1 900 €) ; coûts premium
 - Négociation : viser 8 200 – 8 500 €
 
-### 5. VW Polo 1.0 TSI 95 (CHZL) — à chiffrer
+### 6. VW Polo 1.0 TSI 95 (CHZL) — à chiffrer
 - **Fiche** : [volkswagen/polo.md](volkswagen/polo.md) · fiche technique piecesenstock.re
 - ✅ EA211 à courroie (150 000 km/10 ans), pas la chaîne fragile des vieux 1.2 TSI
 - **Infos manquantes** : prix, année, km, boîte (manuelle vs DSG7)
 
-### 6. Audi TT 2.0 TFSI — 11 000 € (↘ 13 900) — hors budget
+### 10. Audi TT 2.0 TFSI — 11 000 € (↘ 13 900)
 - **Fiche** : [audi/tt.md](audi/tt.md) · Facebook Marketplace, coupé Mk2 (8J)
 - ⚠️ **Au-dessus du plafond de 10 000 €**
 - ⚠️ Identifier le moteur : EA113 (courroie, 2006-2008) ou **EA888 gen2 (chaîne + tendeur fragile + conso d'huile, 2008-2014)**
 - **Infos manquantes** : année, km, code moteur, historique tendeur/chaîne, conso d'huile
 - Coupé plaisir premium : 450-750 €/an d'entretien, à réserver si coup de cœur assumé
 
-### 7. Opel Adam 1.4 87 ch (B14XEL) — à chiffrer
+### 4. BMW Série 1 116i Pack Luxe (F20) — 13 900 € ★★★
+- **Fiche** : [bmw/serie-1.md](bmw/serie-1.md) · Saint-Louis, pro (Bigot Automobiles Sud), 2019, 65 000 km, 1ère main, boîte manuelle, essence
+- ✅ **F20 propulsion** (la génération appréciée) avec le **1.5 3 cyl. B38 à chaîne** — moteur fiable (base MINI), pas de courroie
+- ✅ 65 000 km, 1ère main, révision + CT OK, prix déjà baissé (13 900 € au lieu de 17 900 €) ; badge « bonne affaire »
+- ⚠️ **Coûts premium** (400-650 €/an) ; pièces/MO BMW chères à La Réunion → identifier un bon indépendant BMW
+- À vérifier : carnet d'entretien annuel (pas CBS espacé), bougies 60 000 km, **fuites d'huile** (joint carter/boîtier filtre), embrayage, pneus arrière (propulsion), électronique/iDrive
+- Négociation : c'est un pro, prix déjà bradé ; viser 13 000-13 500 € ou exiger révision complète + CT vierge + garantie écrite
+- **Verdict** : belle affaire pour qui veut du premium/propulsion et assume les coûts d'entretien ; mécaniquement le meilleur des « plaisir » avec la Swift
+
+### 5. Opel Adam 1.4 87 ch (B14XEL) — à chiffrer
 - **Fiche** : [opel/adam.md](opel/adam.md) · fiche technique piecesenstock.re
 - ✅ **Chaîne de distribution** (pas de courroie), mécanique Corsa D/E simple et pièces bon marché
 - Largement dans le budget (Adam d'occasion : ~5 000 – 9 000 €)
@@ -88,7 +98,7 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 - À vérifier : suivi d'huile (légère conso connue), **embrayage** (usage sportif), plaquettes, corrosion, historique (voiture « plaisir » = parfois malmenée)
 - **Infos manquantes** : année, km — les demander pour chiffrer
 
-### 9. Range Rover Evoque 2.0 TD4 diesel — 14 500 € ★ (hors budget + risqué)
+### 11. Range Rover Evoque 2.0 TD4 diesel — 14 500 € ★ (hors budget + risqué)
 - **Fiche** : [land-rover/range-rover-evoque.md](land-rover/range-rover-evoque.md) · Saint-Denis, Facebook Marketplace, 2016, 103 000 km, boîte manuelle, « moteur nickel », « pièces neuves facture à l'appui »
 - ⚠️ **Moteur Ingenium 2.0 diesel à courroie humide** : sans facture de courroie = 900-1 500 € immédiat + **risque casse 5 000-9 000 €**
 - ⚠️ Fiabilité Evoque réputée fragile (électronique, FAP/EGR/AdBlue, joints) ; entretien 700-1 200 €/an ; **réseau/pièces JLR chers et rares à La Réunion**
